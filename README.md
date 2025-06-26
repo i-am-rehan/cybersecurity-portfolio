@@ -7,7 +7,10 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
 - [Google Cybersecurity Certificate](https://coursera.org/share/9c4b15dc0bd752ec53614c88263cc688)
 - [ISC2 Certified in Cybersecurity – Candidate Badge](https://www.credly.com/badges/865a3827-7deb-458c-88b0-db6c547b55df/public_url)
 
-## 🔧 Featured Projects
+## 📂 Projects
+- **[🛡️ Internal Security Audit – Botium Toys](https://github.com/i-am-rehan/internal-security-audit-botium-toys)**  
+  NIST CSF-based audit for a fictional toy company. Included risk assessment, compliance checklist, and self-assessment.
+
 - **ThreatHelm SOC Project** – Simulated SOC environment: threat hunting, log filtering, incident documentation.
 - **Web Audit Report** – Vulnerability scanning and secure configuration assessment.
 - **Linux + SQL Automation** – Automated log extraction and audit scripting.
