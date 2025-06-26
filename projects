@@ -1,2 +1,13 @@
-- **[🛡️ Internal Security Audit – Botium Toys](https://github.com/i-am-rehan/internal-security-audit-botium-toys)**  
-  NIST CSF-based audit for a fictional toy company. Included risk assessment, compliance checklist, and self-assessment.
+## 📂 Projects
+
+- **[🛡️ Internal Security Audit – Botium Toys](./internal-security-audit-botium-toys/)**  
+  Conducted internal audit using NIST CSF. Includes checklist, assessment, and summary.
+
+- **[🔍 ThreatHelm SOC Project](./threathelm-soc-project/)**  
+  Simulated threat analysis using log correlation and alert triage.
+
+- **[🌐 Web Audit Report](./web-audit-report/)**  
+  Manual + automated web vulnerability scanning with suggested mitigations.
+
+- **[🐧 Linux + SQL Automation](./linux-sql-automation/)**  
+  Bash and SQL scripts to extract, filter, and report audit logs.
