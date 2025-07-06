@@ -25,7 +25,7 @@ Practice files and analysis samples using tools like Wireshark, Nmap, and Splunk
   [View Lab →](https://github.com/i-am-rehan/LAN-Design)
 
 - 📡 Analyze Network Layer Communication – Investigated a DNS service failure using `tcpdump`. Analyzed packet logs, identified ICMP error “udp port 53 unreachable,” and documented findings in a structured incident report.  
-  [View Analysis →](https://github.com/i-am-rehan/Activity-Analyze-network-layer-communication)
+  [View Lab →](https://github.com/i-am-rehan/Activity-Analyze-network-layer-communication)
 
 
 ## 🧠 Incident Handler's Journal
