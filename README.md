@@ -12,6 +12,10 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
 - **[🛡️ Internal Security Audit – Botium Toys](https://github.com/i-am-rehan/internal-security-audit-botium-toys)**  
   NIST CSF-based audit for a fictional toy company. Included risk assessment, compliance checklist, and self-assessment.
 
+- **[🚨 SYN Flood Case Study – Network Attack Analysis](https://github.com/i-am-rehan/Analyze-network-attacks)**  
+  Investigated a SYN flood DoS attack using Wireshark. Differentiated between normal and malicious TCP traffic and wrote a professional incident report.  
+  Files include log analysis, report, and interpretation guide.
+
 - **ThreatHelm SOC Project** – Simulated SOC environment: threat hunting, log filtering, incident documentation.
 - **Web Audit Report** – Vulnerability scanning and secure configuration assessment.
 - **Linux + SQL Automation** – Automated log extraction and audit scripting.
