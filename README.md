@@ -16,6 +16,11 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
   Investigated a SYN flood DoS attack using Wireshark. Differentiated between normal and malicious TCP traffic and wrote a professional incident report.  
   Files include log analysis, report, and interpretation guide.
 
+- **[🔐 Brute Force Attack Case Study – HTTP & DNS Log Analysis](https://github.com/i-am-rehan/security-incident-report-brute-force)**  
+  Investigated a brute force web server compromise on `yummyrecipesforme.com`.  
+  Analyzed `tcpdump` logs to trace DNS and HTTP traffic, identified protocol usage, and documented a structured security incident report with remediation steps.  
+  Repository includes full scenario, raw logs, and Markdown-based incident documentation.  
+
 - **ThreatHelm SOC Project** – Simulated SOC environment: threat hunting, log filtering, incident documentation.
 - **Web Audit Report** – Vulnerability scanning and secure configuration assessment.
 - **Linux + SQL Automation** – Automated log extraction and audit scripting.
