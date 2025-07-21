@@ -21,10 +21,11 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
   Analyzed `tcpdump` logs to trace DNS and HTTP traffic, identified protocol usage, and documented a structured security incident report with remediation steps.  
   Repository includes full scenario, raw logs, and Markdown-based incident documentation.  
 
-- **[🔐 Analysis of Network Hardening](https://github.com/i-am-rehan/analysis-of-network-hardening)**  
+- **[🔐 Analysis of Network Hardening](https://github.com/i-am-rehan/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)**  
   Investigated a real-world breach scenario at a social media company. Identified key vulnerabilities such as shared passwords, default admin credentials, and poor firewall rules. Proposed targeted hardening solutions including MFA, firewall rule enforcement, and password policy improvements.  
-  Files include security risk assessment report and a curated list of hardening tools.  
-  🔗 [View Report (Google Doc)](https://docs.google.com/document/d/1c9nD6F5mxf4u7pJR5cbyV3Ud_CcaD0rh6N2Bh0UYAcs/edit?usp=sharing)
+  Files include a detailed security risk assessment report and a curated table of hardening tools with descriptions and implementation use cases.  
+  📄 [View Report (Google Doc)](https://docs.google.com/document/d/1c9nD6F5mxf4u7pJR5cbyV3Ud_CcaD0rh6N2Bh0UYAcs/edit?usp=sharing)  
+  📊 [Network Hardening Tools Table (Google Sheets)](https://docs.google.com/spreadsheets/d/194et-dyDfo85j2L4Ww8g36x9mS7PqfdC4XLPY7t6TEQ/edit?usp=sharing)
 
 - **[🛡️ NIST CSF Incident Report – DDoS Attack Response Plan](https://github.com/i-am-rehan/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)**  
   Applied the NIST Cybersecurity Framework to analyze and respond to a DDoS attack caused by an ICMP flood. Documented the Identify, Protect, Detect, Respond, and Recover phases.  
