@@ -21,6 +21,16 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
   Analyzed `tcpdump` logs to trace DNS and HTTP traffic, identified protocol usage, and documented a structured security incident report with remediation steps.  
   Repository includes full scenario, raw logs, and Markdown-based incident documentation.  
 
+- **[🔐 Analysis of Network Hardening](https://github.com/i-am-rehan/analysis-of-network-hardening)**  
+  Investigated a real-world breach scenario at a social media company. Identified key vulnerabilities such as shared passwords, default admin credentials, and poor firewall rules. Proposed targeted hardening solutions including MFA, firewall rule enforcement, and password policy improvements.  
+  Files include security risk assessment report and a curated list of hardening tools.  
+  🔗 [View Report (Google Doc)](https://docs.google.com/document/d/1c9nD6F5mxf4u7pJR5cbyV3Ud_CcaD0rh6N2Bh0UYAcs/edit?usp=sharing)
+
+- **[🛡️ NIST CSF Incident Report – DDoS Attack Response Plan](https://github.com/i-am-rehan/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)**  
+  Applied the NIST Cybersecurity Framework to analyze and respond to a DDoS attack caused by an ICMP flood. Documented the Identify, Protect, Detect, Respond, and Recover phases.  
+  Delivered a structured incident response plan with actionable recommendations for firewall rules, IDS/IPS deployment, and recovery procedures.  
+  🔗 [View Report (Google Doc)](https://docs.google.com/document/d/1GXGNYx3aFdUB9VRYto-05O9HVws-yUbiYqet5zh30fM/edit?usp=sharing)
+
 - **ThreatHelm SOC Project** – Simulated SOC environment: threat hunting, log filtering, incident documentation.
 - **Web Audit Report** – Vulnerability scanning and secure configuration assessment.
 - **Linux + SQL Automation** – Automated log extraction and audit scripting.
