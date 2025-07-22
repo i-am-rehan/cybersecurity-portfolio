@@ -37,9 +37,9 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
 - **Linux + SQL Automation** – Automated log extraction and audit scripting.
 
 
-  ## 🛠 Tools & Practice
+## 🛠 Tools & Practice
 
-Practice files and analysis samples using tools like Wireshark, Nmap, and Splunk.
+  Practice files and analysis samples using tools like Wireshark, Nmap, and Splunk.
 
 - 🖧 LAN Design Simulation – Hands-on practice lab from Google Cybersecurity Certificate. Designed a secure local area network (LAN) with proper firewall placement, segmentation, and access point integration.  
   [View Lab →](https://github.com/i-am-rehan/LAN-Design)
