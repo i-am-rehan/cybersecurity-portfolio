@@ -31,7 +31,19 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
   Applied the NIST Cybersecurity Framework to analyze and respond to a DDoS attack caused by an ICMP flood. Documented the Identify, Protect, Detect, Respond, and Recover phases.  
   Delivered a structured incident response plan with actionable recommendations for firewall rules, IDS/IPS deployment, and recovery procedures.  
   🔗 [View Report (Google Doc)](https://docs.google.com/document/d/1GXGNYx3aFdUB9VRYto-05O9HVws-yUbiYqet5zh30fM/edit?usp=sharing)
+  
+- **[🧾 Linux File Permissions Project – Secure File & Directory Access](https://github.com/i-am-rehan/Manage-Linux-File-Permissions)**
 
+  Configured secure access settings on a Linux system using CLI commands such as `ls -la` and `chmod`. Applied the principle of least privilege to ensure sensitive files and directories comply with organizational security policies.
+
+  - 🔐 Adjusted permissions on project files and hidden archives  
+  - 📁 Secured directory access for confidential data  
+  - 🖥️ Used `chmod` to remove group and other write access  
+  - 📄 [Full Report (Google Doc)](https://docs.google.com/document/d/1ewon9CFn6aUjInVRI2XKHJ1xMD2pbG06Su4j7LBrKMU/edit?usp=sharing)  
+  - 📄 [Current File Permissions Reference](https://docs.google.com/document/d/19yWs_jiX5N2nlXmkal4Q6ZCBks1D_hvwmrpe8nAe21A/edit?usp=sharing)  
+  - 📸 [Screenshots Folder in Repo](https://github.com/i-am-rehan/Manage-Linux-File-Permissions)
+  > Demonstrates practical use of Linux permission management and strengthens security analyst fundamentals.
+  > 
 - **ThreatHelm SOC Project** – Simulated SOC environment: threat hunting, log filtering, incident documentation.
 - **Web Audit Report** – Vulnerability scanning and secure configuration assessment.
 - **Linux + SQL Automation** – Automated log extraction and audit scripting.
