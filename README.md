@@ -43,10 +43,18 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
   - 📄 [Current File Permissions Reference](https://docs.google.com/document/d/19yWs_jiX5N2nlXmkal4Q6ZCBks1D_hvwmrpe8nAe21A/edit?usp=sharing)  
   - 📸 [Screenshots Folder in Repo](https://github.com/i-am-rehan/Manage-Linux-File-Permissions)
   > Demonstrates practical use of Linux permission management and strengthens security analyst fundamentals.
-  > 
-- **ThreatHelm SOC Project** – Simulated SOC environment: threat hunting, log filtering, incident documentation.
-- **Web Audit Report** – Vulnerability scanning and secure configuration assessment.
-- **Linux + SQL Automation** – Automated log extraction and audit scripting.
+
+- **[🧩 Apply Filters to SQL Queries – Cybersecurity Data Investigation](https://github.com/i-am-rehan/Apply-filters-to-SQL-queries/tree/main)**  
+  Investigated security-related login activities and employee records using SQL filters and JOINs. Focused on identifying suspicious patterns through queries using `AND`, `OR`, `NOT`, `LIKE`, and `INNER JOIN`.  
+  Tasks included:
+  - 🔍 After-hours failed login investigation  
+  - 🕵️‍♂️ Date-specific suspicious login detection  
+  - 🌍 Geolocation-based filtering (e.g., excluding Mexico)  
+  - 🏢 Department and office-based filtering for machine updates  
+  - 🔗 Employee–login JOINs to correlate identities with activity  
+  📄 [Full Report (Google Doc)](https://docs.google.com/document/d/1EXHkxuxDWMAhdJoFy-6iOn9gxPd3ZbGBPhVyiF_-8es/edit?usp=sharing)
+
+  > This project highlights my ability to apply SQL querying for cybersecurity purposes, extract actionable data from log tables, and support security decisions through investigative analysis.
 
 
 ## 🛠 Tools & Practice
