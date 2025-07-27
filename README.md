@@ -52,7 +52,7 @@ Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybers
   - 🌍 Geolocation-based filtering (e.g., excluding Mexico)  
   - 🏢 Department and office-based filtering for machine updates  
   - 🔗 Employee–login JOINs to correlate identities with activity  
-  📄 [Full Report (Google Doc)](https://docs.google.com/document/d/1EXHkxuxDWMAhdJoFy-6iOn9gxPd3ZbGBPhVyiF_-8es/edit?usp=sharing)
+  📄 [Full Report (Google Doc)](https://docs.google.com/document/d/1LFH21h3ShOdgFOS4NpAnLSsDhdzJ6iJWafVn7LnQ2v0/edit?usp=sharing)
 
   > This project highlights my ability to apply SQL querying for cybersecurity purposes, extract actionable data from log tables, and support security decisions through investigative analysis.
 
