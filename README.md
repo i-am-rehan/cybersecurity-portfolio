@@ -1,6 +1,7 @@
 # Rehan Ahmad – Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! I am currently pursuing the Google Cybersecurity Certificate and actively building hands-on experience in threat detection, incident response, and log analysis.
+## Welcome to my cybersecurity portfolio!
+I am currently pursuing the Google Cybersecurity Certificate and have completed multiple hands-on projects in areas such as network attack analysis, incident response, system hardening, and SQL-based security investigations. So far, my work includes analyzing real-world inspired scenarios like SYN flood attacks, brute force compromises, and DDoS incidents, as well as configuring secure Linux file permissions and conducting NIST CSF-based security audits. Each project reflects my growing expertise in threat detection, log analysis, and security control implementation—building a strong foundation for my career as a cybersecurity analyst.
 
 ## 📄 Resume & Certifications
 - [My Resume](./resume/Rehan_Cybersecurity_Resume.pdf)
