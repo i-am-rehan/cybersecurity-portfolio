@@ -1,0 +1,3 @@
+## Professional Summary (ATS-Optimized for Resume)
+
+Cybersecurity professional with hands-on experience in threat detection, vulnerability assessment, network security, and incident response gained through the Google Cybersecurity Certificate. Proficient in SIEM tools, packet analysis, risk assessment, and access control implementation. Skilled in secure full-stack development with PHP, React, Node.js, WordPress, and Dreamweaver, applying secure coding and OWASP best practices. Adept at protecting digital assets through firewall configuration, endpoint security, and security monitoring, with a strong commitment to confidentiality, integrity, and availability (CIA) principles.
