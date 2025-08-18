@@ -22,7 +22,7 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
   Analyzed `tcpdump` logs to trace DNS and HTTP traffic, identified protocol usage, and documented a structured security incident report with remediation steps.  
   Repository includes full scenario, raw logs, and Markdown-based incident documentation.  
 
-- **[🔐 Analysis of Network Hardening](https://github.com/i-am-rehan/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/tree/main)**  
+- **[🔐 Analysis of Network Hardening](https://github.com/i-am-rehan/Analysis-of-network-hardening)**  
   Investigated a real-world breach scenario at a social media company. Identified key vulnerabilities such as shared passwords, default admin credentials, and poor firewall rules. Proposed targeted hardening solutions including MFA, firewall rule enforcement, and password policy improvements.  
   Files include a detailed security risk assessment report and a curated table of hardening tools with descriptions and implementation use cases.  
   📄 [View Report (Google Doc)](https://docs.google.com/document/d/1c9nD6F5mxf4u7pJR5cbyV3Ud_CcaD0rh6N2Bh0UYAcs/edit?usp=sharing)  
