@@ -4,7 +4,7 @@
 I am currently pursuing the Google Cybersecurity Certificate and have completed multiple hands-on projects in areas such as network attack analysis, incident response, system hardening, and SQL-based security investigations. So far, my work includes analyzing real-world inspired scenarios like SYN flood attacks, brute force compromises, and DDoS incidents, as well as configuring secure Linux file permissions and conducting NIST CSF-based security audits. Each project reflects my growing expertise in threat detection, log analysis, and security control implementation—building a strong foundation for my career as a cybersecurity analyst.
 
 ## 📄 Resume & Certifications
-- [My Resume](./resume/Rehan_Cybersecurity_Resume.pdf)
+- [My Resume](https://github.com/i-am-rehan/cybersecurity-portfolio/blob/main/Rehan%20SOC%20resume%20v4.pdf)
 - [Google Cybersecurity Certificate](https://coursera.org/share/9c4b15dc0bd752ec53614c88263cc688)
 - [ISC2 Certified in Cybersecurity – Candidate Badge](https://www.credly.com/badges/865a3827-7deb-458c-88b0-db6c547b55df/public_url)
 
