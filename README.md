@@ -77,6 +77,10 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 - 📊 Data Privacy Risk Assessment – Educational Technology Company – Reviewed a data leak incident caused by a failure to follow the principle of least privilege. Analyzed folder-level oversharing, assessed NIST SP 800-53 AC-6 controls, and proposed enhancements to strengthen data privacy and prevent future leaks.  
   [View Worksheet →](https://github.com/i-am-rehan/Data-Privacy-Risk-Assessment-Educational-Technology-Company-/blob/main/README.md)
 
+- 🔐 Decrypt an Encrypted Message – Practiced breaking a Caesar cipher using Linux commands to decrypt hidden files and recover data. Explored file contents, identified hidden messages, and applied decryption techniques.    
+  [View full repo →](https://github.com/i-am-rehan/Decrypt-an-Encrypted-Message/blob/main/README.md)
+
+
 
 
 
