@@ -71,6 +71,10 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 - 🖥️ Classify the Assets Connected to a Home Network – Built an asset inventory for a small-business home office network. Identified connected devices, documented their characteristics, and classified them by sensitivity    level (Confidential, Internal, Restricted, Public).  
   [View Home Asset Inventory →](https://github.com/i-am-rehan/Classify-the-Assets-Connected-to-a-Home-Network/blob/main/README.md)
 
+- 📊 Risk Assessment – Bank Risk Register – Conducted a structured risk assessment for a mid-size bank. Identified key assets, evaluated threats and vulnerabilities, assigned risk scores, and documented mitigation strategies in a comprehensive risk register.  
+  [View Risk Register →](https://github.com/i-am-rehan/Risk-Assessment-Bank-Risk-Register/blob/main/README.md)
+
+
 
 
 
