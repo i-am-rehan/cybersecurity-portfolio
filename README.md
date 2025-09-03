@@ -74,6 +74,9 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 - 📊 Risk Assessment – Bank Risk Register – Conducted a structured risk assessment for a mid-size bank. Identified key assets, evaluated threats and vulnerabilities, assigned risk scores, and documented mitigation strategies in a comprehensive risk register.  
   [View Risk Register →](https://github.com/i-am-rehan/Risk-Assessment-Bank-Risk-Register/blob/main/README.md)
 
+- 📊 Data Privacy Risk Assessment – Educational Technology Company – Reviewed a data leak incident caused by a failure to follow the principle of least privilege. Analyzed folder-level oversharing, assessed NIST SP 800-53 AC-6 controls, and proposed enhancements to strengthen data privacy and prevent future leaks.  
+  [View Worksheet →](https://github.com/i-am-rehan/Data-Privacy-Risk-Assessment-Educational-Technology-Company-/blob/main/README.md)
+
 
 
 
