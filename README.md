@@ -60,7 +60,7 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 
 ## 🛠 Tools & Practice
 
-  Practice files and analysis samples using tools like Wireshark, Nmap, and Splunk.
+  Practice labs and projects demonstrating skills in network security, asset management, and risk assessment.
 
 - 🖧 LAN Design Simulation – Hands-on practice lab from Google Cybersecurity Certificate. Designed a secure local area network (LAN) with proper firewall placement, segmentation, and access point integration.  
   [View Lab →](https://github.com/i-am-rehan/LAN-Design)
