@@ -68,8 +68,9 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 - 📡 Analyze Network Layer Communication – Investigated a DNS service failure using `tcpdump`. Analyzed packet logs, identified ICMP error “udp port 53 unreachable,” and documented findings in a structured incident report.  
   [View Lab →](https://github.com/i-am-rehan/Activity-Analyze-network-layer-communication)
 
-- 🖥️ Classify the Assets Connected to a Home Network – Built an asset inventory for a small-business home office network. Identified connected devices, documented their characteristics, and classified them by sensitivity level (Confidential, Internal, Restricted,          Public).  
-📂 [View Home Asset Inventory →](https://docs.google.com/spreadsheets/d/17h6VeFcwJjm8vquQaCOixpT6Hg508Xo-hOXJDjlWb6A/edit?usp=sharing)  
+- 🖥️ Classify the Assets Connected to a Home Network – Built an asset inventory for a small-business home office network. Identified connected devices, documented their characteristics, and classified them by sensitivity    level (Confidential, Internal, Restricted, Public).  
+  [View Home Asset Inventory →](https://github.com/i-am-rehan/Classify-the-Assets-Connected-to-a-Home-Network/blob/main/README.md)
+
 
 
 
