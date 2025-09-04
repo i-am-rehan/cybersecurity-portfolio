@@ -62,10 +62,9 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
   Identified potential risks including brute-force attempts, insider threats, and automated bot scans.  
   Delivered a formal assessment report with remediation strategies guided by **NIST SP 800-30 Rev. 1**, focusing on VPN restrictions, MFA, and least privilege enforcement.  
 
-  - 📄 [Assessment Report](https://github.com/i-am-rehan/Vulnerability-Assessment-Public-Database-Server/blob/main/Vulnerability_Assessment_Report.pdf)  
-  - 📄 [NIST SP 800-30 Rev. 1](https://github.com/i-am-rehan/Vulnerability-Assessment-Public-Database-Server/blob/main/NIST_SP800-30_Rev1.pdf)  
+  - 📄 [Assessment Report](https://docs.google.com/document/d/1Dh6f_PgO9gqyQaHKBhSd3scENC-EJ-berWIjhQ2T5Dc/edit?usp=sharing)  
+  - 📄 [NIST SP 800-30 Rev. 1](https://docs.google.com/document/d/1Yvx1XzL6Fm5BI37C6hsITrL5CHrp8-IBEz2_8YARXhw/edit?usp=sharing)  
  
-
   > Highlights experience in applying NIST standards to structured risk assessments and documenting security recommendations.
 
 
