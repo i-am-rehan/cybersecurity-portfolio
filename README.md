@@ -57,6 +57,18 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 
   > This project highlights my ability to apply SQL querying for cybersecurity purposes, extract actionable data from log tables, and support security decisions through investigative analysis.
 
+- **[🛡️ Vulnerability Assessment – Public Database Server](https://github.com/i-am-rehan/Vulnerability-Assessment-Public-Database-Server)**  
+  Conducted a vulnerability assessment for an e-commerce company’s publicly accessible database server.  
+  Identified potential risks including brute-force attempts, insider threats, and automated bot scans.  
+  Delivered a formal assessment report with remediation strategies guided by **NIST SP 800-30 Rev. 1**, focusing on VPN restrictions, MFA, and least privilege enforcement.  
+
+  - 📄 [Assessment Report](https://github.com/i-am-rehan/Vulnerability-Assessment-Public-Database-Server/blob/main/Vulnerability_Assessment_Report.pdf)  
+  - 📄 [NIST SP 800-30 Rev. 1](https://github.com/i-am-rehan/Vulnerability-Assessment-Public-Database-Server/blob/main/NIST_SP800-30_Rev1.pdf)  
+ 
+
+  > Highlights experience in applying NIST standards to structured risk assessments and documenting security recommendations.
+
+
 
 ## 🛠 Tools & Practice
 
