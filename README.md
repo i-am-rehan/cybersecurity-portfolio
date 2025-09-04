@@ -83,6 +83,9 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 - 🔑 Create Hash Values – Used Linux commands to generate SHA-256 hashes for files, compare results, and validate file integrity. Practiced computing, displaying, and comparing hash values to detect file differences.  
 [View Full Repo →](https://github.com/i-am-rehan/Create-Hash-Values/blob/main/README.md)
 
+- 🔒 Assess Access Controls – Payroll Incident Investigation – Investigated a payroll breach caused by weak access controls. Reviewed event logs, identified shared/inactive account misuse, and recommended RBAC, MFA, and account deprovisioning to mitigate risks.  
+  [View Full Repo →](https://github.com/i-am-rehan/Assess-Access-Controls/blob/main/README.md)
+
 
 
 
