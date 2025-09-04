@@ -67,7 +67,15 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
  
   > Highlights experience in applying NIST standards to structured risk assessments and documenting security recommendations.
 
-
+- **[💽 Parking Lot USB Exercise – Attack Vector Analysis](https://github.com/i-am-rehan/Parking-Lot-USB-Exercise-Attack-Vector-Analysis/blob/main/README.md)**  
+  Investigated a **USB baiting scenario** at Rhetorical Hospital by analyzing a found USB device in a controlled virtual environment.  
+  - Identified risks of mixing personal and professional data  
+  - Explored attacker use cases (phishing, impersonation, social engineering)  
+  - Analyzed malware threats like ransomware, trojans, and keyloggers  
+  - Recommended **technical, operational, and managerial controls** (disable autorun, endpoint protection, employee training)  
+  📄 [Full Report (Google Doc)](https://docs.google.com/document/d/1Axv2mjAc-5pvSSza3bFtYfgllc5o4xEdIqh-pCO1k0U/edit?usp=sharing)
+ 
+  > This project demonstrates awareness of **social engineering attack vectors** and technical + policy-level mitigation strategies.
 
 ## 🛠 Tools & Practice
 
