@@ -77,6 +77,15 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
  
   > This project demonstrates awareness of **social engineering attack vectors** and technical + policy-level mitigation strategies.
 
+- **[🛡️ Threat Modeling with PASTA – Sneaker Marketplace App](https://github.com/i-am-rehan/Threat-Modeling-with-PASTA-Sneaker-Marketplace-App/blob/main/README.md)**  
+  Applied the **PASTA (Process of Attack Simulation and Threat Analysis)** framework on a sneaker trading mobile application.  
+
+  - **Key Risks Identified:** SQL injection, session hijacking, insider misuse  
+  - **Mitigation Strategies:** MFA, encryption, secure coding, database access control  
+  - **Artifacts:** Data Flow Diagram (DFD), Attack Tree Diagram  
+  📄 [Read Full Analysis](https://docs.google.com/document/d/1nyX2SmUc3RXre6uDL98qxCT0ytXJr9ALRLMgU4cljrw/edit?usp=sharing)
+
+
 ## 🛠 Tools & Practice
 
   Practice labs and projects demonstrating skills in network security, asset management, and risk assessment.
