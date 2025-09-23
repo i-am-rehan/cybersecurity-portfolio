@@ -85,6 +85,9 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
   - **Artifacts:** Data Flow Diagram (DFD), Attack Tree Diagram  
   📄 [Read Full Analysis](https://docs.google.com/document/d/1nyX2SmUc3RXre6uDL98qxCT0ytXJr9ALRLMgU4cljrw/edit?usp=sharing)
 
+- **[🔹 Incident Handler’s Journal – Ransomware Attack (Entry 1)](https://github.com/i-am-rehan/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)**  
+  Documented a simulated ransomware incident using the Incident Handler’s Journal format. Applied the 5 W’s method to capture key incident details and practiced structured incident response documentation.
+
 
 ## 🛠 Tools & Practice
 
