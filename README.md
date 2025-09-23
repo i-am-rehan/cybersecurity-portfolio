@@ -88,6 +88,10 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 - **[🔹 Incident Handler’s Journal – Ransomware Attack (Entry 1)](https://github.com/i-am-rehan/Document-an-incident-with-an-incident-handler-s-journal/blob/main/README.md)**  
   Documented a simulated ransomware incident using the Incident Handler’s Journal format. Applied the 5 W’s method to capture key incident details and practiced structured incident response documentation.
 
+- **[🔍 Investigate a Suspicious File Hash](https://github.com/i-am-rehan/Investigate-a-suspicious-file-hash/tree/main)
+  Investigation of a phishing-related malicious file using VirusTotal and Pyramid of Pain mapping, documented with findings and screenshots.
+  
+
 
 ## 🛠 Tools & Practice
 
