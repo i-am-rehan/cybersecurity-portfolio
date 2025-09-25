@@ -93,6 +93,17 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
   
 - **[🛡️ Responding to a Phishing Incident – Playbook Execution](https://github.com/i-am-rehan/Use-a-playbook-to-respond-to-a-phishing-incident/tree/main)**  
   Response to a phishing alert involving a malicious email attachment, using a structured **incident response playbook** and updated **alert ticket system**.
+  
+- **[📑Review a Final Report](https://github.com/i-am-rehan/Review-a-final-report/tree/main)**  
+  Reviewed a sample **post-incident final report** from a retail company that experienced a major data breach of over one million users. The review focused on:  
+  - **Identifying what happened** in the incident  
+  - **Pinpointing when it occurred**  
+  - **Analyzing the response actions** taken by the company  
+  - **Recommending improvements** to prevent future breaches  
+
+  This activity highlights practical application of the **Post-Incident Activity phase** of the NIST Incident Response Lifecycle.  
+
+  > 📂 Supporting resource: A **Final Report** will also be added to this repository.
 
 
 ## 🛠 Tools & Practice
