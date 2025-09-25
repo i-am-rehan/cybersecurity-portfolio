@@ -90,6 +90,9 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 
 - **[🔍 Investigate a Suspicious File Hash](https://github.com/i-am-rehan/Investigate-a-suspicious-file-hash/tree/main)** <br>
   Brief analysis of a malicious file hash using VirusTotal, with summarized findings and supporting evidence.
+  
+- **[🛡️ Responding to a Phishing Incident – Playbook Execution](https://github.com/i-am-rehan/Use-a-playbook-to-respond-to-a-phishing-incident/tree/main)**  
+  Response to a phishing alert involving a malicious email attachment, using a structured **incident response playbook** and updated **alert ticket system**.
 
 
 ## 🛠 Tools & Practice
