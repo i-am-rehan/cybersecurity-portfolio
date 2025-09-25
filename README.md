@@ -141,6 +141,21 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 
 
 ## 🧠 Incident Handler's Journal
-An ongoing journal of incident response thought processes and documentation practices.
+A comprehensive journal documenting my incident response thought processes, investigations, and use of security tools.  
+This journal was built progressively across multiple activities and finalized into a portfolio-ready format.  
+
+✅ Includes 7 entries:  
+- **[Entry 1:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.0)** Ransomware attack at healthcare clinic (5 W’s)  
+- **[Entry 2:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.cdfjt2kg45lz)** Phishing email investigation with malicious hash (5 W’s + ticket update)  
+- **[Entry 3:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.8ukbe8m6s8ts)** Malware analysis using VirusTotal & IoCs mapping (Detection & Analysis phase)  
+- **[Entry 4:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.vonzne8w16sl)** Suricata custom rules & log analysis (IDS monitoring)  
+- **[Entry 5:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.tftue8t1z1yf)** Review of a professional incident final report (Post-Incident Activity phase)  
+- **[Entry 6:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.2zzjzj7z0cqg)** Queries in Splunk & Chronicle SIEMs (tool usage)  
+- **[Entry 7:](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?tab=t.qngekjxmubvt)** Final reflection on learnings, tools, and NIST IR lifecycle mapping  
+
+📂 Repository Contents:  
+- [`incident-handlers-journal.docx`](https://docs.google.com/document/d/17Qy2dxOkSUXCCHWqn2uvxDh72YGb4tfA99Jw9-i--_Q/edit?usp=sharing) → Full journal with all entries and reflection
+
+
 
 > I will continue to update this portfolio as I complete more hands-on labs and expand my cybersecurity skills.
