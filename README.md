@@ -105,7 +105,7 @@ I have successfully completed the Google Cybersecurity Certificate, where I gain
 
   > 📂 Supporting resource: A **Final Report** will also be added to this repository.
   
-- **[Update a File Through a Python Algorithm](https://github.com/i-am-rehan/Update-a-File-Through-a-Python-Algorithm/blob/main/README.md) <br>
+- **[Update a File Through a Python Algorithm](https://github.com/i-am-rehan/Update-a-File-Through-a-Python-Algorithm/blob/main/README.md)** <br>
   Developed a Python script to automate updating an IP allow list by:
   - Reading IPs from a file
   - Removing unauthorized entries
