@@ -104,6 +104,16 @@ I have successfully completed the Google Cybersecurity Certificate, where I gain
   This activity highlights practical application of the **Post-Incident Activity phase** of the NIST Incident Response Lifecycle.  
 
   > 📂 Supporting resource: A **Final Report** will also be added to this repository.
+  
+- **[Update a File Through a Python Algorithm](https://github.com/i-am-rehan/Update-a-File-Through-a-Python-Algorithm/blob/main/README.md)
+  Developed a Python script to automate updating an IP allow list by:
+  - Reading IPs from a file
+  - Removing unauthorized entries
+  - Rewriting the file with the updated list  
+
+  This improves efficiency and reduces manual errors in access control management.  
+  🔗 [Full Documentation](https://docs.google.com/document/d/1D2DvZv0VpKi6M-xlC4zP9SPZpbmZ0b-8m2Gs_jdvChw/edit?usp=sharing)
+
 
 
 ## 🛠 Tools & Practice
