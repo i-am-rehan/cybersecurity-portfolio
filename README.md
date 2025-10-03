@@ -1,7 +1,7 @@
 # Rehan Ahmad – Cybersecurity Portfolio
 
 ## Welcome to my cybersecurity portfolio!
-I am currently pursuing the Google Cybersecurity Certificate and have completed multiple hands-on projects in areas such as network attack analysis, incident response, system hardening, and SQL-based security investigations. So far, my work includes analyzing real-world inspired scenarios like SYN flood attacks, brute force compromises, and DDoS incidents, as well as configuring secure Linux file permissions and conducting NIST CSF-based security audits. Each project reflects my growing expertise in threat detection, log analysis, and security control implementation—building a strong foundation for my career as a cybersecurity analyst.
+I have successfully completed the Google Cybersecurity Certificate, where I gained hands-on experience in network attack analysis, incident response, system hardening, Python security automation, and SQL-based security investigations. My projects include analyzing real-world inspired scenarios such as SYN flood attacks, brute force compromises, and DDoS incidents, configuring secure Linux file permissions, developing Python scripts to automate log parsing and security tasks, and conducting NIST CSF-based security audits. These experiences reflect my growing expertise in threat detection, log analysis, and security control implementation—building a strong foundation for my career as a cybersecurity analyst.
 
 ## 📄 Resume & Certifications
 - [My Resume](https://github.com/i-am-rehan/cybersecurity-portfolio/blob/main/Rehan%20SOC%20resume%20v4.pdf)
@@ -108,7 +108,7 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 
 ## 🛠 Tools & Practice
 
-  Practice labs and projects demonstrating skills in network security, asset management, and risk assessment.
+  Practice labs and projects demonstrating skills in network security, Python scripting, file parsing, asset management, and risk assessment.
 
 - 🖧 LAN Design Simulation – Hands-on practice lab from Google Cybersecurity Certificate. Designed a secure local area network (LAN) with proper firewall placement, segmentation, and access point integration.  
   [View Lab →](https://github.com/i-am-rehan/LAN-Design)
@@ -133,11 +133,12 @@ I am currently pursuing the Google Cybersecurity Certificate and have completed 
 
 - 🔒 Assess Access Controls – Payroll Incident Investigation – Investigated a payroll breach caused by weak access controls. Reviewed event logs, identified shared/inactive account misuse, and recommended RBAC, MFA, and account deprovisioning to mitigate risks.  
   [View Full Repo →](https://github.com/i-am-rehan/Assess-Access-Controls/blob/main/README.md)
+  
+- 📝 Develop an Algorithm – Built a Python script to automate user verification and device validation. Used lists, indexing, conditionals, and functions to check whether a user is approved and if they’re logging in from their correct assigned device. <br>
+  [View Full Repo →](https://github.com/i-am-rehan/Develop-an-Algorithm/tree/main)
 
-
-
-
-
+- 📝 Create Another Algorithm – Designed a Python program to parse an allow list of IP addresses and automatically remove unauthorized entries. Practiced file handling, string manipulation, and list operations to maintain secure access controls. <br>
+  [View Full Repo →](https://github.com/i-am-rehan/Create-another-algorithm/tree/main) 
 
 
 ## 🧠 Incident Handler's Journal
