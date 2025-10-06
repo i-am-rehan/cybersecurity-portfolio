@@ -148,7 +148,11 @@ I have successfully completed the Google Cybersecurity Certificate, where I gain
   [View Full Repo →](https://github.com/i-am-rehan/Develop-an-Algorithm/tree/main)
 
 - 📝 Create Another Algorithm – Designed a Python program to parse an allow list of IP addresses and automatically remove unauthorized entries. Practiced file handling, string manipulation, and list operations to maintain secure access controls. <br>
-  [View Full Repo →](https://github.com/i-am-rehan/Create-another-algorithm/tree/main) 
+  [View Full Repo →](https://github.com/i-am-rehan/Create-another-algorithm/tree/main)
+
+- 🧩 Security Organization Research and Alignment – Explored key cybersecurity organizations such as **(ISC)²**, **ISACA**, and the **Cloud Security Alliance** to identify which align best with my career interests in **cloud security**, **incident response**, and **security awareness**. This research helped connect my professional goals with real-world security communities and continuous learning opportunities.  
+  [View Full Repo →](https://github.com/i-am-rehan/Explore-cybersecurity-organizations/blob/main/README.md)
+
 
 
 ## 🧠 Incident Handler's Journal
