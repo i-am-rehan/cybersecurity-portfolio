@@ -1,7 +1,7 @@
 # Rehan Ahmad – Cybersecurity Portfolio
 
 ## Welcome to my cybersecurity portfolio!
-I have successfully completed the Google Cybersecurity Certificate, where I gained hands-on experience in network attack analysis, incident response, system hardening, Python security automation, and SQL-based security investigations. My projects include analyzing real-world inspired scenarios such as SYN flood attacks, brute force compromises, and DDoS incidents, configuring secure Linux file permissions, developing Python scripts to automate log parsing and security tasks, and conducting NIST CSF-based security audits. These experiences reflect my growing expertise in threat detection, log analysis, and security control implementation—building a strong foundation for my career as a cybersecurity analyst.
+I am a Google-certified Cybersecurity Professional who built a strong, hands-on foundation in Defensive Security Operations and Incident Response. My learning focused on the real-world application of security principles, combining technical expertise with analytical thinking and automation. My projects cover critical SOC functions, including network attack analysis (e.g., SYN flood, DDoS), system hardening, SQL-based log investigations, and developing Python scripts for security automation and log parsing. These experiences reflect my expertise in Threat Detection, Log Analysis, and Security Control Implementation, preparing me to contribute immediately as a Cybersecurity Analyst.
 
 ## 📄 Resume & Certifications
 - [My Resume](https://github.com/i-am-rehan/cybersecurity-portfolio/blob/main/Rehan%20SOC%20resume%20v4.pdf)
