@@ -4,7 +4,7 @@
 I am a Google-certified Cybersecurity Professional who built a strong, hands-on foundation in Defensive Security Operations and Incident Response. My learning focused on the real-world application of security principles, combining technical expertise with analytical thinking and automation. My projects cover critical SOC functions, including network attack analysis (e.g., SYN flood, DDoS), system hardening, SQL-based log investigations, and developing Python scripts for security automation and log parsing. These experiences reflect my expertise in Threat Detection, Log Analysis, and Security Control Implementation, preparing me to contribute immediately as a Cybersecurity Analyst.
 
 ## 📄 Resume & Certifications
-- [My Resume](https://github.com/i-am-rehan/cybersecurity-portfolio/blob/main/Rehan%20SOC%20resume%20v4.pdf)
+- [My Resume](https://github.com/i-am-rehan/cybersecurity-portfolio/blob/main/Rehan%20SOC%20base%20resume%20v8%20(final).pdf)
 - [Google Cybersecurity Certificate](https://coursera.org/share/9c4b15dc0bd752ec53614c88263cc688)
 - [ISC2 Certified in Cybersecurity – Candidate Badge](https://www.credly.com/badges/865a3827-7deb-458c-88b0-db6c547b55df/public_url)
 
